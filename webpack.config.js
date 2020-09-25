@@ -10,6 +10,11 @@ module.exports = {
     },
     resolve: {
         extensions: ['.tsx', '.ts', '.js'],
+        modules: [
+            'communicatorModularUMD',
+            'communicatorModularAMD',
+            'communicatorModularCJS',
+        ],
     },
     output: {
         filename: 'bundle.js',
