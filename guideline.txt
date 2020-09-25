@@ -1,0 +1,21 @@
+1. Copy the token.
+2. Switch back to VS code.
+3. Click Signing in to github.com... in the status bar.
+4. Paste the token and hit enter.
+
+vscode://vscode.github-authentication/did-authenticate?windowid=3&code=0b8b5a08e001a5cfe332&state=f042b22a-b4cf-477d-91da-2788dc3bfd8f
+
+
+
+-------------------------------------------------
+
+
+1. tsc --init
+2. npm init
+3. npm install typescript --save-dev
+4. npm install webpack --save-dev
+5. npm install ts-loader --save-dev
+6. npm install webpack-cli --save-dev
+7. npm install webpack-dev-server --save-dev
+8. npm install lodash --save
+9. npm install @types/lodash
